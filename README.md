@@ -9,7 +9,22 @@ reachability-dist regarding the number of clusters as well as the number of core
 noise points.
 
 # Reachability plot
-![]()
-
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach1.0.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach1.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach2.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach2.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach3.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach3.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach4.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/reach5.png)
 
 # Cluster plot
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus1.0.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus1.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus2.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus3.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus3.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus4.5.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus4.png)
+![](https://github.com/ranjiGT/optics-for-density-reachability-diagram/blob/main/clus5.png)
