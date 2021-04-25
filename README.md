@@ -1,4 +1,4 @@
-# optics-for-density-reachability-diagram
+# `Ordering of Points To Identify the Clustering Structure`
 Using OPTCS to create a density reachability diagram 
 
 # Case description
