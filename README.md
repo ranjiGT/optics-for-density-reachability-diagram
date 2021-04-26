@@ -1,4 +1,4 @@
-# `Ordering of Points To Identify the Clustering Structure`
+# `Ordering of Points To Identify the Clustering Structure` ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 Using OPTCS to create a density reachability diagram 
 
 # Case description
